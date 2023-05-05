@@ -3,9 +3,9 @@
 # This config file contains the config of your webpages
 # You may also want to update /config/webpack.pwa.js in case you want to generate a Progressive Web App
 
-title: Mobile App Landing Page Template
-email: contact@sandoche.com
-description: Free to use static landing page template to showcase your mobile app
+title: iColors - 你的专属色彩助手
+email: tango129@163.com
+description: 热门风格配色灵感，色彩测试，自制色卡
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mobileapplandingpage.learn.uno" # the base hostname & protocol for your site, e.g. http://example.com
 theme_color: '#efeeff'
